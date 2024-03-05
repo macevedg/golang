@@ -1,0 +1,6 @@
+github.com/goodsign/monday v1.0.1 h1:yJogH0uQNn4blHjoC3ESbdV0P1OhDtGYdd6x0w7QZBo=
+github.com/goodsign/monday v1.0.1/go.mod h1:r4T4breXpoFwspQNM+u2sLxJb2zyTaxVGqUfTBjWOu8=
+github.com/leekchan/timeutil v0.0.0-20150802142658-28917288c48d h1:2puqoOQwi3Ai1oznMOsFIbifm6kIfJaLLyYzWD4IzTs=
+github.com/leekchan/timeutil v0.0.0-20150802142658-28917288c48d/go.mod h1:hO90vCP2x3exaSH58BIAowSKvV+0OsY21TtzuFGHON4=
+github.com/tkuchiki/go-timezone v0.2.2 h1:MdHR65KwgVTwWFQrota4SKzc4L5EfuH5SdZZGtk/P2Q=
+github.com/tkuchiki/go-timezone v0.2.2/go.mod h1:oFweWxYl35C/s7HMVZXiA19Jr9Y0qJHMaG/J2TES4LY=
